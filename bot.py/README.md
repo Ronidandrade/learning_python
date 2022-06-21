@@ -9,4 +9,4 @@
 
 ## The **driver_install.sh** file:
 
-> Deve ser executado via terminal para instalar todos os requerimentos necessários.
+> Deve ser executado via terminal para instalar todos os requerimentos necessários no Sistema Linux baseado em Debian.
