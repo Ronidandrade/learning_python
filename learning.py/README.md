@@ -1,0 +1,3 @@
+# Learning...
+
+### Aqui podemos ver e aprender alguns recursos básicos do **Python**
