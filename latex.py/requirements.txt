@@ -1,0 +1,3 @@
+debugpy==1.3.0
+ordered-set==4.0.2
+PyLaTeX==1.4.1
